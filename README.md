@@ -54,4 +54,4 @@ Todo el ciclo, solo: levanté los requerimientos con la dueña del negocio, dise
 
 ---
 
-Hecho por **Edinson Rivera** · [Portafolio](https://[tu-portafolio]) · [LinkedIn](https://www.linkedin.com/in/edinson-rivera-dev)
+Hecho por **Edinson Rivera** · [Portafolio](https://portafolio-desarrollo2026.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/edinson-rivera-dev)
