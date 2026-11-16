@@ -48,7 +48,11 @@ Todo el ciclo, solo: levanté los requerimientos con la dueña del negocio, dise
 
 | Reserva | Panel de la estilista |
 | --- | --- |
-| ![Reserva](docs/reserva.png) | ![Panel](docs/panel.png) |
+| ![Reserva](docs/reserva.png) | ![Panel](docs/panelstilista.png) |
+
+| Reservas | Panel admin |
+| --- | --- |
+| ![Reserva](docs/reservas.png) | ![Panel](docs/paneladmin.png) |
 
 [Ver video demo](docs/reserva-estetica.mp4)
 
